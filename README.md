@@ -73,3 +73,6 @@ streamlit run app.py
 Step 3: Open browser
 
 http://localhost:8501
+
+## License
+This project is licensed under the MIT License.
